@@ -1,0 +1,16 @@
+{
+  "store.home": {
+    "blocks": [
+      "rich-text#home__section__two",
+      "flex-layout.row#home__section--one"
+    ]
+  },
+  "rich-text#home__section__two": {
+    "props": {
+      "text": "VTEX Store Framework",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-heading-4"
+    }
+  }
+}
