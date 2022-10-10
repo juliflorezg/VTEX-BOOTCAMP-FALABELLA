@@ -1,0 +1,7 @@
+.sliderLayoutContainer--home__slider{
+  margin-bottom: 3rem;
+}
+
+.paginationDotsContainer--home__slider {
+  transform: translateY(25px);
+}
